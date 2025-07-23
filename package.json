@@ -1,0 +1,19 @@
+{
+  "name": "mcp-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "mcp-basics": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.16.0",
+    "prompts": "^2.4.2"
+  }
+}

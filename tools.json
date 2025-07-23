@@ -1,0 +1,10 @@
+[
+  {
+    "name": "mcp-translator",
+    "tool": "npx ts-migrate"
+  },
+  {
+    "name": "mcp-formatter", 
+    "tool": "npx prettier --write ."
+  }
+]
