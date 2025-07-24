@@ -29,9 +29,7 @@ node index.js
 
 ## Configuration
 
-Add this MCP server to your Cline configuration by editing the MCP settings file:
-
-**File location:** `/Users/[username]/Library/Application Support/Code/User/globalStorage/saoudrizwan.claude-dev/settings/cline_mcp_settings.json`
+In VSCode, set up your MCP settings and add Local MCP Basics as a new entry inside the mcpServers object:
 
 **Configuration:**
 ```json
